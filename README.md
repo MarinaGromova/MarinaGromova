@@ -3,7 +3,7 @@
 <!--
 **MarinaGromova/MarinaGromova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-👨‍💻 **Frontend**:
+<h2>👨‍💻 **Frontend**: </h2>
 - JavaScript/TypeScript
 - HTML
 - Css/Scss
